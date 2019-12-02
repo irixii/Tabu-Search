@@ -1,0 +1,3 @@
+Basic Tabu Search library for heuristic optimization problems.
+
+In order to use, you must implement with data and a cost calculation function by overriding that function.
